@@ -1,2 +1,2 @@
-# OSConfig
+# Script OSConfig
 Script OSConfig
